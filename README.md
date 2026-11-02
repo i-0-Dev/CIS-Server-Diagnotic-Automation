@@ -111,3 +111,19 @@ File will notifiy you where to look for the generated report you can open it wit
 ```bash
 cat /var/log/system_diagnostic_report.txt
 ```
+
+---
+
+## Diagnostic Samples
+
+### CentOS Diagnostic Report Sample
+
+! [CentOS Diagnostic Output](Centos_Diagnosis_sample.png)
+
+A Redacted view of the tool successfully running on a CentOS Machine
+
+### Ubuntu Diagnostic Report Sample
+
+! [Ubuntu Diagnostic Output](Ubuntu_diagnostic_sample.png)
+
+A Redacted view of the tool successfully running on a Ubuntu Machine
